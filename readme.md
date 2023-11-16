@@ -1,5 +1,7 @@
 ## Mac Configurations
 
+***
+
 ### Softwares
 
 - Browsers
@@ -28,3 +30,15 @@
 - FlipClock
 - VLC
 - VIA
+
+***
+
+### Terminal
+
+- TODO Update and upload .zsh file.
+
+***
+
+### Hackintosh
+
+Monterey - TODO - Upload EFI files
