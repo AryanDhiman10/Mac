@@ -41,4 +41,6 @@
 
 ### Hackintosh
 
-Monterey - TODO - Upload EFI files
+- Monterey - TODO - Upload EFI files.
+- Update to Sonoma or Ventura depending on compatibilty.
+  - MUST Wifi EFIs availablility.
